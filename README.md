@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srinidhi Kartik Sarma</h1>
 <h3 align="center">Curious and Keen</h3>
+<h3 align="center">- Currently working on [USB Security](https://github.com/PoojaConsidering/USBVerification) (private currently, research based)</h3>
+
 
 
 
