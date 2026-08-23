@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srinidhi Kartik Sarma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Curious and Keen</h3>
 
-- 📫 How to reach me **srinidhikartiksarma@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
